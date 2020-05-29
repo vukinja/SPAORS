@@ -2,7 +2,7 @@ public class Klasa{
 	/*petlja racuna sumu prvih 10 brojeva*/
 	public int suma(){
 		int rezultat = 0;
-		for(int i = 1; i<=5; i++){
+		for(int i = 0; i<=5; i++){
 			rezultat = i;
 		}
 		return rezultat;
